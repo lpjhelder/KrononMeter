@@ -4,9 +4,17 @@
 
 Um programa para deixar aberto junto com o AION 2, no Windows. Ele mostra o dano do grupo, avisa dos eventos, lembra o que falta fazer no dia, ajuda a caçar os pets que faltam e grava as lutas de chefe para você rever.
 
+<p align="center">
+  <img src="imagens/dps.png" width="49%" alt="Medidor de dano">
+  <img src="imagens/ameaca.png" width="49%" alt="Ameaça">
+  <img src="imagens/radar.png" width="49%" alt="Radar">
+  <img src="imagens/replays.png" width="49%" alt="Replays">
+</p>
+<p align="center"><sub>Demonstrações com dados de exemplo · Demos with sample data · Demostraciones con datos de ejemplo</sub></p>
+
 ### [Baixar o KrononMeter](https://kunakina.krononinho.com.br/#companion)
 
-O download fica no site, junto com a explicação de cada função.
+O download fica no site, junto com a explicação de cada função. O instalador também está anexado a cada versão, na [página de versões](https://github.com/lpjhelder/KrononMeter/releases).
 
 ### [Ver as novidades de cada versão](https://github.com/lpjhelder/KrononMeter/releases)
 
@@ -40,6 +48,10 @@ O download fica no site, junto com a explicação de cada função.
 
 Quando sair uma versão nova, o próprio programa avisa e, com o seu sim, instala.
 
+## Dúvidas e sugestões
+
+Fale com a gente no [Discord](https://discord.gg/ssKmcqQq7u).
+
 ## Sobre este endereço
 
 Aqui ficam as notas de cada versão. O código-fonte fica em outro repositório, que ainda não está aberto.
@@ -54,7 +66,7 @@ A program to keep open alongside AION 2, on Windows. It shows the party's damage
 
 ### [Download KrononMeter](https://kunakina.krononinho.com.br/#companion)
 
-The download is on the site, with a walkthrough of each feature (in Portuguese).
+The download is on the site, with a walkthrough of each feature (in Portuguese). The installer is also attached to each version, on the [releases page](https://github.com/lpjhelder/KrononMeter/releases).
 
 ### [See what is new in each version](https://github.com/lpjhelder/KrononMeter/releases)
 
@@ -88,6 +100,10 @@ The download is on the site, with a walkthrough of each feature (in Portuguese).
 
 When a new version comes out, the program tells you and, once you confirm, installs it.
 
+### Questions and suggestions
+
+Talk to us on [Discord](https://discord.gg/ssKmcqQq7u) (the server is in Portuguese).
+
 ### About this page
 
 This page holds the notes of each version. The source code lives in another repository, which is not open yet.
@@ -102,7 +118,7 @@ Un programa para dejar abierto junto con AION 2, en Windows. Muestra el daño de
 
 ### [Descargar KrononMeter](https://kunakina.krononinho.com.br/#companion)
 
-La descarga está en el sitio, con la explicación de cada función (en portugués).
+La descarga está en el sitio, con la explicación de cada función (en portugués). El instalador también está adjunto a cada versión, en la [página de versiones](https://github.com/lpjhelder/KrononMeter/releases).
 
 ### [Ver las novedades de cada versión](https://github.com/lpjhelder/KrononMeter/releases)
 
@@ -135,6 +151,10 @@ La descarga está en el sitio, con la explicación de cada función (en portugu�
 4. Si no aparecen números durante la pelea, ciérralo y ábrelo de nuevo con clic derecho, "Ejecutar como administrador".
 
 Cuando salga una versión nueva, el propio programa avisa y, con tu confirmación, la instala.
+
+### Dudas y sugerencias
+
+Habla con nosotros en [Discord](https://discord.gg/ssKmcqQq7u) (el servidor está en portugués).
 
 ### Sobre esta página
 
